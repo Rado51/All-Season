@@ -1,0 +1,112 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  padding-top: 1%
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.book-btn {
+  padding: 1%;
+  border-style: solid;
+  background-color: black;
+  border-top: 0;
+}
+
+.display-4 {
+  padding-top: 2%
+}
+
+.row {
+  padding-bottom: 2%;
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.treeimg {
+  background: url('https://media.istockphoto.com/vectors/national-forest-pines-vector-id485312564?k=20&m=485312564&s=612x612&w=0&h=bIEUsDPTnPhXYPen2tbgwmIevoUux3D2pYeTgZ8jZfY=');
+  background-size: cover;
+}
+
+.done-Right {
+  style="font-family: 'Montserrat', sans-serif;"
+  font-weight: 900;
+}
+
+.sec2p {
+  padding: 4%;
+}
+
+.landimg{
+  height: 10px;
+  width: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+ .pitty{
+height:280px;
+width: 300px;
+}
+
+.input{
+padding: 5%;
+margin:15px;
+
+}
+
+  #rowcss {
+    width: 100%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    background-color: inherit;
+    border: 2px 0;
+    border-style: solid;
+  }
+
+input{
+  border-color: grey;
+  border-radius: 10px;
+  width: auto;
+}
+
+.fa {
+  padding: 0;
+  font-size: 30px;
+  width: 80px;
+  height:80px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #198754;
+  color: white;
+  padding-top: 5%;
+}
+
+.fa-google {
+  background: #198754;
+  color: white;
+  padding-top: 5%;
+
+}
+.fa-instagram {
+  background: #198754;
+  color: white;
+  padding-top: 5%;
+
+}
